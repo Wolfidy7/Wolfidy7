@@ -42,31 +42,6 @@ I'm a **Data Scientist** with nearly **4 years of tech experience**, coming from
   </tr>
 </table>
 
-## 💼 Experience
-
-### 🟦 Decathlon · Data Scientist (work-study)
-<sub>**2025 – present**</sub>
-
-- 🤖 **Generative AI:** develop and continuously improve a conversational agent built on a **RAG architecture** powered by LLMs, used by **~300 people**
-- ⚖️ **AI evaluation:** shipped an **LLM-as-a-Judge** feature that made testing the agent's answers **98% faster**
-- 🔐 **Model security:** implemented defenses against **prompt injection**, with a technical *and* financial benchmark of the candidate solutions
-- 📟 **Monitoring & alerting:** designed real-time alerting for Cloud Run (**Cloud Alerting → Pub/Sub → webhooks → Google Chat**) with detailed logs, so issues get fixed before users are affected
-- 📈 **Performance & scaling:** ran load tests with a **custom-built algorithm** to plan scaling for thousands of future users
-- ☁️ **Cloud optimization:** tuned CPU/memory allocation on Google Cloud for better performance at a lower cost
-- 🧾 **Data governance:** built **PII anonymization** pipelines in MLflow workflows on Databricks
-- ✅ **Reliability:** added integration tests across the RAG architecture to catch instability before it reaches production
-
-`LLM` `RAG` `LangChain` `Vertex AI` `Cloud Run` `Pub/Sub` `BigQuery` `Databricks` `MLflow` `Docker` `Python`
-
-### 🟪 QUALNET · Software Engineer (work-study)
-<sub>**2023 – 2025**</sub>
-
-- 🛡️ **Security:** project lead for patching a **critical SAML vulnerability**, from design to development
-- 📊 **Data & performance:** improved statistical evaluation tools and optimized SQL queries
-- 🔁 **Agile & DevOps:** designed new features, tested them with NUnit and automated software tasks in a Scrum team
-
-`Python` `C#` `VueJS` `SQL / Oracle` `Power BI` `Jenkins` `NUnit` `Scrum`
-
 ## 🛠️ Tech stack
 
 <table>
@@ -132,14 +107,6 @@ I'm a **Data Scientist** with nearly **4 years of tech experience**, coming from
 |---|---|---|
 | 😷 **Mask detection** <br/><sub>2024 · Engineering school</sub> | Trained an object-recognition model to detect people wearing surgical masks | Precision **76%** · Recall **65%** · F1 **70%** |
 | 🧭 **Maze-solving AI** <br/><sub>2022 · CPGE</sub> | Built intelligent agents that find their way through a maze | Compared **BFS, UCS and A\*** with several heuristics |
-
-## 🎓 Education
-
-| When | Program | School |
-|---|---|---|
-| **2025 – 2027** | 🤖 Machine Learning Engineer | Liora × **Mines Paris – PSL** |
-| **2022 – 2025** | 🛡️ Engineering Degree in Cybersecurity <sub>(average 15/20)</sub> | **INSA Centre-Val de Loire**, Bourges |
-| **2020 – 2022** | 📐 CPGE MP\*: Mathematics, Physics & CS <sub>(high honors)</sub> | Lycée Louis Thuillier, Amiens |
 
 ## 🌱 Outside of code
 
