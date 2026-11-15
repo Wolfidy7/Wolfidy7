@@ -17,7 +17,8 @@ I'm a **Data Scientist** with nearly **4 years of tech experience**, coming from
 - 🎓 **Studying:** Machine Learning Engineer program, **Liora × Mines Paris – PSL** (2025 – 2027)
 - 🛡️ **Background:** Engineering degree in **Cybersecurity**, INSA Centre-Val de Loire
 - 🧮 **Roots:** CPGE MP\* (maths, physics, computer science), which is where my taste for algorithms comes from
-- 🌍 **Based in** Lille, France · 🗣️ French · English · Wolof
+- 🌍 **Based in** Lille, France  
+- 🌐 **Languages** French · English · Wolof
 
 ## 🚀 Highlights
 
