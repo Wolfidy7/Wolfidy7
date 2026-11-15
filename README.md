@@ -74,9 +74,9 @@ I'm a **Data Scientist** with nearly **4 years of tech experience**, coming from
     <td><b>Languages &amp; Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI"/>
     </td>
   </tr>
   <tr>
@@ -106,6 +106,7 @@ I'm a **Data Scientist** with nearly **4 years of tech experience**, coming from
 
 | Project | What I did | Highlights |
 |---|---|---|
+| 🎯 **[WhatsApp Quiz Studio](https://github.com/Wolfidy7/whatsapp-quiz-bot-macos)** <br/><sub>Personal project · macOS</sub> | Built a local quiz host for WhatsApp Desktop: it posts questions to a group, reads answers from WhatsApp's local database (read-only), grades them with an AI model and runs a live leaderboard | Python · PyObjC · AI-graded answers · live dashboard · tests & CI |
 | 😷 **Mask detection** <br/><sub>2024 · Engineering school</sub> | Trained an object-recognition model to detect people wearing surgical masks | Precision **76%** · Recall **65%** · F1 **70%** |
 | 🧭 **Maze-solving AI** <br/><sub>2022 · CPGE</sub> | Built intelligent agents that find their way through a maze | Compared **BFS, UCS and A\*** with several heuristics |
 
